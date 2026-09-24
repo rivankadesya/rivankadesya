@@ -48,17 +48,22 @@
 
 ---
 
+
+
 ### 📊 GitHub Activity
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rivankadesya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rivankadesya&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</div>
+<p align="center">
+  <img src="https://stats.codersrank.io/api?username=rivankadesya" alt="" width="0" height="0" />
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api?username=rivankadesya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
 
-<div align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rivankadesya&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
+<p align="center">
+  <img align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=rivankadesya&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rivankadesya&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 ---
 
 ### 📬 Connect With Me
